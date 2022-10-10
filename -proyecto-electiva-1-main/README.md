@@ -1,9 +1,8 @@
 # Proyecto Electiva de Profundización I - Creación de APIs
 
 ## Integrantes:
-[@juancdonado](https://github.com/juancdonado).
-[@justynMeza](https://github.com/justynmeza).
-[@Diego21605](https://github.com/Diego21605).
+[@Jeremycactus](https://github.com/Jeremycactus).
+
  
  # Sprint 1:
  
